@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android11_3</string>
+    <string name="age">AGE : </string>
+    <string name="name">Name : </string>
+    <string name="sex">Sex : </string>
+    <string name="employee_photo">Employee Photo</string>
+</resources>
